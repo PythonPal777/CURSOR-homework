@@ -46,10 +46,8 @@ class LenovoLaptop(Laptop):
         print("HP Laptop dynamics")
 
 
-# Create an instance of the HPLaptop class
 lenovo_laptop = LenovoLaptop()
 
-# Call the methods of the HPLaptop class
 lenovo_laptop.screen()
 lenovo_laptop.keyboard()
 lenovo_laptop.touchpad()
